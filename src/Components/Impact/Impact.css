@@ -1,0 +1,9 @@
+.calc {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 200px;
+}
+
+.button {
+    width: 50px;
+}
